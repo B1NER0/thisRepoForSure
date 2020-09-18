@@ -5,6 +5,6 @@ app.get('/', (req, res) => {
     res.send("This is the freaking homepage");
 })
 
-app.listen(3000, () => {
+app.listen(8080, () => {
         console.log("WAZAAAP");
 });
