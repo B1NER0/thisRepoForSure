@@ -1,14 +1,22 @@
 {
-  "name": "TRY THISYOUTUBE",
+  "name": "ThisOneIsForReal",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "\"# thisOneRepos\"",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/B1NER0/thisRepoForSure.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/B1NER0/thisRepoForSure/issues"
+  },
+  "homepage": "https://github.com/B1NER0/thisRepoForSure#readme",
   "dependencies": {
     "express": "^4.17.1",
     "nodemon": "^2.0.4"
